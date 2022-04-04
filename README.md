@@ -1,7 +1,7 @@
-#### CS 110
-# Chapter 4 - Lab - Functions
+#### CS 105
+# Chapter 8 - Lab - Functions
 
-### [Assignment Description](https://docs.google.com/document/d/1V20D_upUX4MO8YmskKlRB25Yu2pCEv3-h8z4EAfrSno/edit?usp=sharing)
+### [Assignment Description](https://docs.google.com/document/d/1yOIpVmATjXwcXZho-bpckCc3dwq6KF0bumj57EWcFDE/edit?usp=sharing)
 
 ***
 
